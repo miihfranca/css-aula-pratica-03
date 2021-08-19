@@ -1,0 +1,75 @@
+.a {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0%;
+}
+a:link {
+    color: white;
+}
+a:visited {
+    color: whitesmoke;
+}
+a {
+    text-decoration: none;
+    display: inline;
+    margin-right: 14px;
+    text-transform: uppercase;
+}
+a:hover {
+    color: rgb(212, 39, 9);
+}
+.planta {
+    background-color: #b3949b;
+    width: 7vw;
+    height: 4vh;
+    margin-left: 24.2vw;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+.casa {
+    margin-right: 15.4vw;
+    font-size: 28px;
+    margin-top: 1.4vh;
+    font-family: 'Shadows Into Light', cursive;
+    margin-left: 1.1vw;
+    float:right;
+
+}
+.planta1{
+    text-align: center;
+    align-items: center;
+    color: white;
+    height: 80px;
+;
+}
+header {
+    background-color: #b3949b;
+    display: flex;
+    color: white;
+    height: 80px;
+    font-weight: bold;
+    width: 97%;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    
+}
+
+nav {
+    font-size: 20px;
+    margin-top: 2.8vh;
+}
+.img {
+    text-align: center;
+    margin-top: 3vh;
+    margin-bottom: 2vh;
+}
+.b, .c {
+    margin-left: 22.2vw;
+    width: 56vw;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.c {
+    font-size: 20px;
+}
